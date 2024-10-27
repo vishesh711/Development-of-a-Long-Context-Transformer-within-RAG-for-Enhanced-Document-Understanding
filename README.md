@@ -1,7 +1,7 @@
 # Development-of-a-Long-Context-Transformer-within-RAG-for-Enhanced-Document-Understanding
 ---
 
-# Wikipedia RAG (Retrieval-Augmented Generation) Bot
+# Wikipedia RAG (Retrieval-Augmented Generation)
 
 This project demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using Wikipedia data and OpenAI's GPT model. It retrieves relevant text from a Wikipedia article, embeds and ranks paragraphs based on similarity to a user query, and generates a response using OpenAI's GPT model with the most relevant content.
 
