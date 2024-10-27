@@ -1,4 +1,5 @@
 # Development-of-a-Long-Context-Transformer-within-RAG-for-Enhanced-Document-Understanding
+API: https://console.groq.com/docs/quickstart
 ---
 
 # Wikipedia RAG (Retrieval-Augmented Generation)
